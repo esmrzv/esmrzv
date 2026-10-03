@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=esmrzv&show_icons=true&theme=radical)
 <!--
 **esmrzv/esmrzv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
