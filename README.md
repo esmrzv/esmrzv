@@ -10,7 +10,7 @@
 ### 🧑‍💻 About Me
 
 - 🔭 I’m currently working on [**microservices shop**](https://github.com/esmrzv/microservice-shop)
-- 🌱 I’m currently learning **system design, Kubernetes and advanced Go concurrency patterns**
+- 🌱 I’m currently learning advanced Go concurrency patterns**
 - 👯 I’m looking to collaborate on **open-source backend projects**
 - 💬 Ask me about **Go, Python, PostgreSQL, Kafka, RabbitMQ, Docker**
 - 📫 How to reach me: **esmurziev.1999@mail.ru**
@@ -71,22 +71,19 @@
 
 ---
 
-### 📊 GitHub Stats
-
+📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=esmrzv&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmrzv&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=esmrzv&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&count_private=true&hide_rank=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmrzv&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&hide=C%2B%2B,C,Makefile,Dockerfile,Mako" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=esmrzv&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currLine=FFB86C" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=esmrzv&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=6C63FF&currLine=FFB86C" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=esmrzv&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=esmrzv&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
 </p>
-
----
 
 ### 📈 Activity Graph
 
