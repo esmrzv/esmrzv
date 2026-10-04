@@ -91,7 +91,7 @@
 ### 📈 Activity Graph
 
 <a href="https://github.com/esmrzv">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=esmrzv&theme=redical&bg_color=0D1117&color=6C63FF&line=FFB86C&point=FFFFFF&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=esmrzv&theme=radical&bg_color=0D1117&color=6C63FF&line=FFB86C&point=FFFFFF&hide_border=true" alt="Contribution Graph" width="100%" />
 </a>
 
 ---
