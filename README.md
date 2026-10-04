@@ -106,6 +106,10 @@
 </p>
 
 <p align="center">
+  <sub>📩 Telegram: <a href="https://t.me/esmrzv">@esmrzv</a></sub>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=esmrzv&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
